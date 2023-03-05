@@ -1,2 +1,6 @@
-const myHeading = document.querySelector("h1");
-myHeading.textContent("Hello Motha!");
+let Name, admin;
+
+Name="John";
+admin=Name;
+
+alert(Name);
